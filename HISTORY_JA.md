@@ -29,4 +29,9 @@ Gorge Public License
 - その後、カナダやイタリア、アルゼンチンなどで局所的にGorgeを名乗るトラックメーカーが存在したとし、Theatre XやMVVMなどはsoundcloudで確認できる
 - ただし、あまりも消息不明の人物が多く、この頃に何が起こっていたのかはさらなる謎に包まれている
 
+### 参考リンク
+- [MVVM](https://soundcloud.com/mvvm)
+- [Theater X](https://soundcloud.com/theaterx)
+
+
 
